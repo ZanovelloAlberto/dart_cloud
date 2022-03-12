@@ -1,0 +1,11 @@
+name: app
+description: A sample "Hello, World!" Functions Framework project.
+# version: 0.1.0
+# homepage: https://www.example.com
+publish_to: none
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+dependencies: 
+  appengine: ^0.13.1
+
